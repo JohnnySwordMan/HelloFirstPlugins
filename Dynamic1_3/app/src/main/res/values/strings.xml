@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dynamic1_3</string>
+    <string name="host_hello_1">hello_host_1</string>
+    <string name="host_hello_2">hello_host_2</string>
+</resources>
