@@ -1,0 +1,5 @@
+include ':pluginapi'
+include ':plugin2'
+include ':plugin1'
+include ':app'
+rootProject.name = "Dynamic3"
