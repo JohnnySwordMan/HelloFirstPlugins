@@ -1,4 +1,4 @@
 include ':pluginapi'
 include ':plugin'
 include ':app'
-rootProject.name = "Dynamic1"
+rootProject.name = "Chapter6Dynamic1"
