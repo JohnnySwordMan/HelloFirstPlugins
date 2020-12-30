@@ -1,0 +1,3 @@
+include ':plugin'
+include ':app'
+rootProject.name = "Chapter6Dynamic0"
