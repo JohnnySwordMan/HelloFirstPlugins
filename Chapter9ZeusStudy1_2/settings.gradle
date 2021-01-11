@@ -2,4 +2,4 @@ include ':pluginservice'
 include ':pluginapi'
 include ':plugin'
 include ':app'
-rootProject.name = "ZeusStudy1_2"
+rootProject.name = "Chapter9ZeusStudy1_2"
