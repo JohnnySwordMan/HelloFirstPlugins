@@ -1,3 +1,0 @@
-include ':plugin1'
-include ':app'
-rootProject.name = "ZeusStudy1"
