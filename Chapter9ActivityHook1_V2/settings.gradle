@@ -1,0 +1,3 @@
+include ':plugin'
+include ':app'
+rootProject.name = "Chapter9ActivityHook1_V2"
