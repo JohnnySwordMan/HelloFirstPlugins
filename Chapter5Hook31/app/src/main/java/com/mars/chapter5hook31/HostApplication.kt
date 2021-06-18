@@ -15,7 +15,7 @@ class HostApplication : Application() {
     override fun attachBaseContext(base: Context?) {
         super.attachBaseContext(base)
         AMSHookHelper.hookAMN()
-//        AMSHookHelper.hookCallbackInH()
-        AMSHookHelper.hookActivityThread()
+        AMSHookHelper.hookCallbackInH()
+//        AMSHookHelper.hookActivityThread()
     }
 }
