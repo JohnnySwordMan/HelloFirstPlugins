@@ -7,6 +7,7 @@ import android.util.Log
  */
 object Logger {
 
+    @JvmStatic
     fun e(tag: String? = "gy", msg: Any) {
         Log.e(tag, "$msg")
     }

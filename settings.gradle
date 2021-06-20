@@ -1,3 +1,4 @@
+include ':chapter5:Hook12'
 include ':common-base'
 include ':chapter5:Hook11'
 include ':app'
