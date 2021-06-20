@@ -38,6 +38,7 @@ class MainActivity : Activity() {
 
         val instrumentationWrapper = MarsInstrumentation(originInstrumentation)
 
+        // 由于这里传的是this，因此只会针对MainActivity生效
         FieldUtils.writeField(
             Activity::class.java,
             this,
